@@ -1,0 +1,49 @@
+body{
+    font-size: 16px;
+    background-color: darkslategrey;
+}
+
+a{
+    color:indianred;
+}
+
+.artikel{
+    width: 1185px;
+    padding: 40px 30px;
+    margin: 40px 40px 0px;
+    background-color: lightblue;
+    border: 5px rgb(218, 233, 9);
+}
+
+img{
+    padding: 20px 20px;
+}
+
+.konten{
+    width: 750px;
+    padding: 30px 20px;
+    margin: 0px 1px 40px 40px;
+    float: left;
+    background-color: lightblue;
+}
+
+.am{
+    width: 200px;
+    padding: 10px 10px;
+    margin: 0px 150px 150px 1px;
+    text-align: center;
+    float: right;
+    background-color: lightblue;
+}
+
+.data img{
+    border-radius: 50%
+}
+
+.judul{
+    float: left;
+}
+
+.nama{
+    float: right;
+}
